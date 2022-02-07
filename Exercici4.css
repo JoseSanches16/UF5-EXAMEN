@@ -1,0 +1,101 @@
+.izquierda {
+  height: 2500px;
+  width: 2500px;
+  background: rgb(255, 255, 255);
+margin: 6px;
+float: left;
+position: absolute;
+
+}
+
+
+.z1 {
+  height: 600px;
+  width: 2500px;
+  background-image: url(/poo.gif);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+margin: 1px;
+}
+
+.z2 {
+  height: 600px;
+  width: 900px;
+  background-image: url(/estrella.jfif);
+  background-repeat: no-repeat;
+  background-size: 120% 80%;
+  margin-top: 10px;
+  float: left;
+position: absolute;
+}
+
+.z3 {
+  height:1500px;
+  width: 1580px;
+  background-image: url(/pelon.gif);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin: 12px;
+   right: -12px;
+  position: absolute;  
+}
+
+.z4 {
+  height: 600px;
+  width: 900px;
+  background-image: url( /shrek\ bailando.gif);
+  background-repeat: no-repeat;
+  background-size: 120% 80%;
+  margin-top: 520px;
+  float: left;
+position: absolute;
+
+}
+
+
+.z5 {
+  height: 600px;
+  width: 900px;
+  background-image: url(/mono.jfif );
+  background-repeat: no-repeat;
+  background-size: 120% 80%;
+  margin-top: 1030px;
+  float: left;
+position: absolute;
+}
+
+.z6 {
+  height: 600px;
+  width: 900px;
+  background-image: url(/bart.gif );
+  background-repeat: no-repeat;
+  background-size: 100% 60%;
+  margin-top: 1530px;
+  float: left;
+position: absolute;
+}
+
+.z7 {
+  height: 600px;
+  width: 900px;
+  background-image: url(/mono\ hombre.gif );
+  background-repeat: no-repeat;
+  background-size: 86% 60%;
+  margin-top: 1530px;
+  right: 675px;
+position: absolute;
+}
+
+
+
+.z8 {
+  height: 600px;
+  width: 900px;
+  background-image: url(/hasbulla.gif );
+  background-repeat: no-repeat;
+  background-size: 87% 60%;
+  margin-top: 1533px;
+  right: -120px;
+position: absolute;
+}
+

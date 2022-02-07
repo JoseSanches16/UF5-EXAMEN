@@ -1,0 +1,140 @@
+.izquierda {
+    height: 600px;
+    width: 600px;
+    background: rgb(255, 255, 255);
+margin: 1px;
+float: left;
+position: relative;
+}
+
+.derecha {
+    height: 600px;
+    width: 270px;
+background: rgb(255, 255, 255);
+margin: 1px;
+float: left;
+position: relative;
+}
+
+.cuadra {
+    width: 99%;
+    height: 100px;
+    background: lime;
+    margin: 7px;
+    float: right;
+    position: relative;
+}
+
+.cuadra3 {
+    width: 47%;
+    height: 150px;
+    background: rgb(35, 129, 35);
+    margin: 7px;
+    float: left;
+    position: relative; 
+}
+
+.cuadra4 {
+    width: 48%;
+    height: 150px;
+    background: rgb(3, 48, 3);
+    margin: 7px;
+    float: left;
+    position: relative;  
+}
+
+.cuadra7 {
+    width: 97%;
+    height: 80px;
+    background: lime;
+    margin: 7px;
+    float: right;
+    position: relative;
+}
+
+.cuadra8 {
+    width: 97%;
+    height: 80px;
+    background: lime;
+    margin: 7px;
+    float: right;
+    position: relative;
+}
+
+
+.cuadra11 {
+    width: 46%;
+    height: 110px;
+    background: rgb(3, 48, 3);
+    margin: 7px;
+    float: left;
+    position: relative;
+}
+
+.cuadra12 {
+    width: 49%;
+    height: 110px;
+    background: rgb(3, 48, 3);
+    margin: 7px;
+    float: left;
+    position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.cuadra2 {
+    width: 95%;
+    height: 100px;
+    background: rgb(1, 59, 1);
+    margin: 7px;
+    float: left;
+    position: relative;
+}
+
+.cuadra5 {
+    width: 95%;
+    height: 68px;
+    background: rgb(3, 48, 3);
+    margin: 7px;
+    float: left;
+    position: relative;
+}
+
+.cuadra6{
+    width: 95%;
+    height: 68px;
+    background: rgb(3, 48, 3);
+    margin: 7px;
+    float: left;
+    position: relative;
+}
+
+.cuadra9 {
+    width: 95%;
+    height: 170px;
+    background: rgb(61, 211, 61);
+    margin: 7px;
+    float: left;
+    position: relative;
+}
+
+.cuadra10 {
+    width: 95%;
+    height: 110px;
+    background: rgb(3, 48, 3);
+    margin: 7px;
+    float: left;
+    position: relative;
+}

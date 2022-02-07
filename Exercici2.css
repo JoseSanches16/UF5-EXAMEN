@@ -1,0 +1,151 @@
+.izquierda {
+    height: 600px;
+    width: 600px;
+    background: rgb(255, 255, 255);
+margin: 1px;
+float: left;
+position: relative;
+}
+
+
+.rectangle {
+    height: 100px;
+    width: 590px;
+    background: rgb(2, 117, 12);
+margin: 3px;
+float: left;
+position: relative;
+}
+
+.rectangle2 {
+    height: 180px;
+    width: 250px;
+    background: rgb(29, 255, 48);
+margin: 10px;
+float: left;
+position: relative;    
+}
+
+
+.rectangle3{
+    height: 325px;
+    width: 310px;
+    background: rgb(29, 255, 48);
+margin: 8px;
+float: right;
+position: relative;
+}
+
+
+.rectangle4 {
+    height: 110px;
+    width: 260px;
+    background: rgb(4, 68, 9);
+margin: -0px;
+float: left;
+position: relative;
+}
+
+.rectangle5 {
+    height: 170px;
+    width: 240px;
+    background: rgb(87, 148, 92);
+margin: 15px;
+float: left;
+position: relative;
+}
+
+.rectangle6 {
+    height: 60px;
+    width: 310px;
+    background: rgb(87, 148, 92);
+margin: 8px;
+float: right;
+position: relative;
+}
+
+.rectangle7 {
+    height: 60px;
+    width: 310px;
+    background: rgb(87, 148, 92);
+margin: 8px;
+float: right;
+position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.derecha {
+    height: 600px;
+    width: 350px;
+    background: rgb(255, 255, 255);
+margin: 1px;
+float: left;
+position: relative;
+}
+
+.cuadra {
+    height: 75px;
+    width: 300px;
+    background: rgb(0, 236, 118);
+margin: 11px;
+float: left;
+position: relative;
+}
+
+
+.cuadra2 {
+    height: 75px;
+    width: 300px;
+    background: rgb(0, 235, 117);
+margin: 11px;
+float: left;
+position: relative;  
+}
+
+.cuadra3 {
+    height: 75px;
+    width: 300px;
+    background: rgb(0, 235, 117);
+margin: 11px;
+float: left;
+position: relative;  
+}
+
+.cuadra4 {
+    height: 210px;
+    width: 300px;
+    background: rgb(5, 105, 27);
+margin: 9px;
+float: left;
+position: relative;
+}
+
+.cuadra5 {
+    height: 65px;
+    width: 300px;
+    background: rgb(0, 235, 117);
+margin: 9px;
+float: left;
+position: relative;
+}

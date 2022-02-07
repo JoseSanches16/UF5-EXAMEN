@@ -1,0 +1,55 @@
+.j1 {
+    height: 830px;
+    width: 830px;
+    background-color: rgb(255, 255, 255);
+    
+}
+
+
+.j2 {
+    height: 830px;
+    width: 830px;
+    background-image: url(/ejercicio6/imagenes/cabecera.png);
+    background-repeat: no-repeat;
+    background-size: 100% 10%;
+  margin: 1px;
+  float: left;
+  position: absolute;
+}
+
+
+.j3 {
+    height: 830px;
+    width: 830px;
+    background-image: url(/ejercicio6/imagenes/tiempozodiaco.png);
+    background-repeat: no-repeat;
+    background-size: 100% 10%;
+    margin-top: 80px;
+  float: left;
+  position: absolute;
+}
+
+.j4 {
+    height: 830px;
+    width: 830px;
+    background-image: url(/ejercicio6/imagenes/siriusblack.png);
+    background-repeat: no-repeat;
+    background-size: 100% 10%;
+    margin-top: 165px;
+  float: left;
+  position: absolute;
+}
+
+
+.j5 {
+    height: 830px;
+    width: 830px;
+    background-image: url(/ejercicio6/imagenes/izquierda1.png);
+    background-repeat: no-repeat;
+    background-size: 20% 10%;
+    margin-top: 250px;
+  float: left;
+  position: absolute;  
+}
+
+
