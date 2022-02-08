@@ -35,12 +35,12 @@ html, body {
     background-size:cover;
     }
     .carousel .carousel-inner .bg1 {
-    background-image:url('/2x7.jpg');
+    background-image:url('2x7.jpg');
     background-position: center top;
     background-repeat:no-repeat;
     }
     .carousel .carousel-inner .bg2 {
-    background-image:url('/5\ euros\ menu\ king.jpg');
+    background-image:url('5\ euros\ menu\ king.jpg');
     background-position: center center;
     background-repeat:no-repeat;
     }
