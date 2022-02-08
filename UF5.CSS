@@ -433,31 +433,31 @@ span {
 
 
 .carousel__face:nth-child(1) {
-  background-image: url("/2\ euros.jpg");
+  background-image: url("2\ euros.jpg");
   transform: rotateY(  0deg) translateZ(430px); }
 .carousel__face:nth-child(2) { 
-  background-image: url("/2\ menus\ a\ 5\ euros.jpg");
+  background-image: url("2\ menus\ a\ 5\ euros.jpg");
     transform: rotateY( 40deg) translateZ(430px); }
 .carousel__face:nth-child(3) {
-  background-image: url("/2x1\ domicilio.jpg");
+  background-image: url("2x1\ domicilio.jpg");
   transform: rotateY( 80deg) translateZ(430px); }
 .carousel__face:nth-child(4) {
-  background-image: url("/2x4\ euros.jpg");
+  background-image: url("2x4\ euros.jpg");
   transform: rotateY(120deg) translateZ(430px); }
 .carousel__face:nth-child(5) { 
-  background-image: url("/2x7.jpg");
+  background-image: url("2x7.jpg");
  transform: rotateY(160deg) translateZ(430px); }
 .carousel__face:nth-child(6) { 
-  background-image: url("/3\,90\ euros.jpg");
+  background-image: url("3\,90\ euros.jpg");
  transform: rotateY(200deg) translateZ(430px); }
 .carousel__face:nth-child(7) { 
-  background-image: url("/5\ euros\ menu\ king.jpg");
+  background-image: url("5\ euros\ menu\ king.jpg");
  transform: rotateY(240deg) translateZ(430px); }
 .carousel__face:nth-child(8) {
-  background-image: url("/euro\ king.jpg");
+  background-image: url("euro\ king.jpg");
   transform: rotateY(280deg) translateZ(430px); }
 .carousel__face:nth-child(9) {
-  background-image: url("/big\ king\ 1\ euro.jpg");
+  background-image: url("big\ king\ 1\ euro.jpg");
   transform: rotateY(320deg) translateZ(430px); }
 
 
